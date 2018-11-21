@@ -1,6 +1,4 @@
 // Exercise 36: loops ending and remembering
-
-
 import java.util.Scanner;
 
 public class LoopsEndingRemembering {
